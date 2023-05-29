@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/marinosgm/Reactportfolio.git/static/css/main.75015445.css",
+    "main.js": "/marinosgm/Reactportfolio.git/static/js/main.780055f2.js",
+    "static/media/bgweb.jpg": "/marinosgm/Reactportfolio.git/static/media/bgweb.1ca18e481f1e5cc4efac.jpg",
+    "static/media/me.jpg": "/marinosgm/Reactportfolio.git/static/media/me.a5fb413151120bc9fd8d.jpg",
+    "static/media/avatar1.jpg": "/marinosgm/Reactportfolio.git/static/media/avatar1.d373467286ea4cbcfcd3.jpg",
+    "static/media/about_me.jpg": "/marinosgm/Reactportfolio.git/static/media/about_me.e91adda04d86233d984b.jpg",
+    "static/media/portfolio3.jpeg": "/marinosgm/Reactportfolio.git/static/media/portfolio3.e786970f53aed5f57fcd.jpeg",
+    "static/media/portfolio1.jpeg": "/marinosgm/Reactportfolio.git/static/media/portfolio1.d2880133df2760276631.jpeg",
+    "static/media/portfolio6.jpeg": "/marinosgm/Reactportfolio.git/static/media/portfolio6.cf1a7b516b5dd535d5d5.jpeg",
+    "static/media/portfolio5.jpeg": "/marinosgm/Reactportfolio.git/static/media/portfolio5.3f352ab44c9c236de21a.jpeg",
+    "static/media/portfolio4.jpeg": "/marinosgm/Reactportfolio.git/static/media/portfolio4.2318e8445a4c2dc1407b.jpeg",
+    "static/media/portfolio2.jpeg": "/marinosgm/Reactportfolio.git/static/media/portfolio2.41e74f693783bdb68d5a.jpeg",
+    "static/media/cv.pdf": "/marinosgm/Reactportfolio.git/static/media/cv.f70404ccee595ea189a8.pdf",
+    "index.html": "/marinosgm/Reactportfolio.git/index.html",
+    "main.75015445.css.map": "/marinosgm/Reactportfolio.git/static/css/main.75015445.css.map",
+    "main.780055f2.js.map": "/marinosgm/Reactportfolio.git/static/js/main.780055f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75015445.css",
+    "static/js/main.780055f2.js"
+  ]
+}
