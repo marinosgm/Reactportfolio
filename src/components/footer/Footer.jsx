@@ -24,9 +24,9 @@ const footer = () => {
 
         <div className="footer__socials">
 
-            <a href="https://facebook.com"><AiFillFacebook/></a>
-            <a href="https://instagram.com"><AiFillInstagram/></a>
-            <a href="https://twitter.com"><AiFillTwitterCircle/></a>
+            <a href="https://facebook.com" target='_blank'><AiFillFacebook/></a>
+            <a href="https://instagram.com" target='_blank'><AiFillInstagram/></a>
+            <a href="https://twitter.com" target='_blank'><AiFillTwitterCircle/></a>
 
         </div>
 
